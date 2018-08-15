@@ -19,7 +19,7 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 #GITHUB_USER = 'jmbegley'
 #GITHUB_SKIP_FORK = True
 
-TWITTER_USERNAME = 'jmbegley'
+TWITTER_USERNAME = 'BCRCRescon'
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['tipue_search', 'filetime_from_git',
@@ -66,8 +66,8 @@ LINKS = (('British Cave Rescue Council', 'https://www.caverescue.org.uk/'),
          ('Mendip Cave Rescue', 'https://www.mendipcaverescue.org/'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/jmbegley'),
-          ('facebook', 'https://www.facebook.com/jamesbegley'),
+SOCIAL = (('twitter', 'https://twitter.com/BCRCRescon'),
+          ('facebook', 'https://www.facebook.com/ResCon19'),
           ('rss', SITEURL + '/' + FEED_ALL_ATOM),
           ('email', 'mailto:james@rescon.org.uk', 'envelope'),)
 
