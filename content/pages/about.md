@@ -6,7 +6,7 @@ Save_as: pages/about-rescon.html
 
 ## What is the BCRC?
 
-The [British Cave Rescue Council (BCRC)](http://www.caverescue.org.uk) was formed in 1967 as the representative body for bona fide volunteer underground rescue organisations in the British Isles. Its functions include representing and supporting its members at National and International level, promoting the exchange of information between member rescue organisations and providing a common voice for them. It is a coordinating and not a governing body. Individual cave rescue organisations remain entirely autonomous and independent.
+The [British Cave Rescue Council (BCRC)](https://www.caverescue.org.uk) was formed in 1967 as the representative body for bona fide volunteer underground rescue organisations in the British Isles. Its functions include representing and supporting its members at National and International level, promoting the exchange of information between member rescue organisations and providing a common voice for them. It is a coordinating and not a governing body. Individual cave rescue organisations remain entirely autonomous and independent.
 
 ## What is ResCon?
 
@@ -20,3 +20,6 @@ The next ResCon is ResCon 19, to be held over the weekend of 6th to the 8th Sept
 
 The next ResCon is to be organised by [MCR](https://www.mendipcaverescue.org), with [James Begley](mailto:james@rescon.org.uk) taking on the role of conference coordinator, ably assisted by other MCR rescue wardens.
 
+## Where can I buy tickets for ResCon 19?
+
+Tickets for Rescon 19 are available to buy online from [Eventbrite](https://rescon.eventbrite.co.uk). Tickets for the whole weekend are priced at £50, which include camping and food (you will only need cash to buy drinks from the bar).

@@ -38,7 +38,7 @@ AUTHOR_FEED_RSS = None
 PYGMENTS_STYLE = 'solarizeddark'
 
 SHOW_ARTICLE_AUTHOR = True
-SHOW_ARTICLE_CATEGORY = True
+SHOW_ARTICLE_CATEGORY = False
 SHOW_DATE_MODIFIED = True
 DISPLAY_BREADCRUMBS = True
 
@@ -57,8 +57,8 @@ DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 # share posts
 SHARIFF = True
 SHARIFF_LANG = "en"
-SHARIFF_SERVICES  = "[&quot;twitter&quot;,&quot;facebook&quot;,&quot;linkedin&quot;]"#,&quot;print&quot;,&quot;mail&quot;]"
-SHARIFF_THEME = "grey"
+SHARIFF_SERVICES  = "[&quot;twitter&quot;,&quot;facebook&quot;,&quot;whatsapp&quot;]"
+SHARIFF_THEME = "standard"
 SHARIFF_ORIENTATION = "horizontal"
 
 # Blogroll
@@ -66,8 +66,9 @@ LINKS = (('British Cave Rescue Council', 'https://www.caverescue.org.uk/'),
          ('Mendip Cave Rescue', 'https://www.mendipcaverescue.org/'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/BCRCRescon'),
+SOCIAL = (('buy tickets', 'https://rescon.eventbrite.co.uk', 'ticket'),
           ('facebook', 'https://www.facebook.com/ResCon19'),
+          ('twitter', 'https://twitter.com/BCRCRescon'),
           ('rss', SITEURL + '/' + FEED_ALL_ATOM),
           ('email', 'mailto:james@rescon.org.uk', 'envelope'),)
 
