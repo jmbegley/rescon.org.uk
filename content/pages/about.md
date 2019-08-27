@@ -10,7 +10,7 @@ The [British Cave Rescue Council (BCRC)](https://www.caverescue.org.uk) was form
 
 ## What is ResCon?
 
-ResCon is the bi-annual BCRC Cave Rescue Conference, a gathering of cave rescue volunteers (and others) to discuss (and practice) cave rescue techniques and meet other cave rescue team members. The next ResCon is to be held on Mendip in September 2019, to be organised by [Mendip Cave Rescue (MCR)](https://www.mendipcaverescue.org), the local voluntary cave rescue service.
+ResCon is the BCRC Cave Rescue Conference, a gathering of cave rescue volunteers (and others) to discuss and practice cave rescue techniques and meet other cave rescue team members. ResCon is held every other year, and the next ResCon is to be held on Mendip in September 2019, to be organised by [Mendip Cave Rescue (MCR)](https://www.mendipcaverescue.org), the local voluntary cave rescue service.
 
 ## When is the next ResCon?
 
