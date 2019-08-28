@@ -85,7 +85,7 @@ AVATAR = "images/bcrc_logo.jpg"
 ABOUT_ME = """
 BCRC is the national representative body for voluntary cave rescue in the British Isles.
 <br/><br/>
-ResCon is the bi-annual BCRC cave rescue conference, with the next one to be held on Mendip in September 2019.
+ResCon is the biennual BCRC cave rescue conference, with the next one to be held on Mendip in September 2019.
 """
 
 # Uncomment following line if you want document-relative URLs when developing
