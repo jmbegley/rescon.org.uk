@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'BCRC'
-SITENAME = 'Britsh Cave Rescue Council Conference'
+SITENAME = 'British Cave Rescue Council Conference'
 #SITEURL = 'https://www.rescon.org.uk'
 SITEURL = ''
 
